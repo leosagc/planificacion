@@ -9,5 +9,5 @@
 
 ## Info
 
-Projecto realizado para la Unidad de Gestión Educativa Local (UGEL) - Chiclayo
+Projecto realizado para el área de Gestión Institucional de la Unidad de Gestión Educativa Local (UGEL) - Chiclayo
 
